@@ -2,6 +2,6 @@
 - 👀 I’m interested in Full stack cross-platform application development, with a passion for creating seamless user experiences and robust back-end systems.
 - 🌱 I’m currently learning REST API Development in GoLang, diving deep into building efficient and scalable APIs that can power modern applications.
 - 💞️ I’m looking to collaborate on exciting projects that involve innovative technologies, particularly in the areas of mobile app development and cloud-based solutions. I'm open to working with like-minded developers and designers who are eager to create impactful applications.
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/mustkeem/) or email me at mustkeembaraskar@gmail.com. I’m always open to networking and discussing potential collaborations!
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/mustkeem/) or email me at [Mustkeem Baraskar](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=mustkeembaraskar@email.com&subject=LET%27S%20GET%20CONNECTED&body=Hi%2C%20let%27s%20get%20connected.%20Here%20are%20my%20contact%20details.%20%5BEnter%20your%20Contact%20Details%20Here%5D). I’m always open to networking and discussing potential collaborations!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new trails! I find that nature inspires my creativity and helps me think outside the box. Also, I have a collection of quirky coffee mugs from around the world!
